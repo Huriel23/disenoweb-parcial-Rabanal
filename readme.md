@@ -18,9 +18,9 @@ El sitio está organizado en una sola página de navegación fluida con las sigu
 
 | Tecnología | Uso dentro del proyecto |
 | :--- | :--- |
-| **HTML5** | Estructura semántica del sitio (header, main, section, article, footer) y formulario de contacto. |
-| **CSS3** | Estilos personalizados (css/style.css), paleta de colores en negro (#000000) y dorado (#d4af37), animaciones suaves y diseño adaptable (*responsive*). |
-| **Bootstrap 5.3.2** | Sistema de rejilla (*grid*), barra de navegación adaptable, tarjetas (*cards*) y estilos de formulario cargados mediante CDN. |
+| html5 | Estructura semántica del sitio (header, main, section, article, footer) y formulario de contacto. |
+| css3 | Estilos personalizados (css/style.css), paleta de colores en negro (#000000) y dorado (#d4af37), animaciones suaves y diseño adaptable (responsive). |
+| Bootstrap 5.3.2 | sistema de rejilla, barra de navegación adaptable, tarjetas y estilos de formulario cargados mediante CDN |
 
 ## Estructura de archivos
 
