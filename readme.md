@@ -29,6 +29,7 @@ El sitio está organizado en una sola página de navegación fluida con las sigu
 - img/: llogotipo de la marca, portada del video, imágenes de las categorías de vehículos (deportivo.png, suv.png, sedan.png) y subcarpeta iconos/ para los servicios y redes sociales.
 - media/: archivos de video en formato MP4 (presenta.mp4 y lambo.mp4).
 
+enlace de la web: ´https://huriel23.github.io/disenoweb-parcial-Rabanal/´
 
 ## Autor y créditos
 
