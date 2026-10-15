@@ -4,32 +4,31 @@ Sitio web informativo desarrollado para **Royal Cars**, una concesionaria fictic
 
 ## Contenido de la página
 
-El sitio está organizado en una sola página de navegación fluida con las siguientes secciones:
+El sitio estta organizado en una sola pagina de navegación fluida con las siguientes secciones:
 
 - **Inicio (Hero):** Presentación principal de la marca con su logotipo animado y acceso directo al catálogo.
 - **Catalogo:** Muestra las tres categorías principales de vehículos disponibles: Deportivos, SUV de lujo y Sedanes ejecutivos.
-- **servivios:** Detalla los seis servicios que ofrece la concesionaria: venta de vehículos, financiamiento a medida, tasación y retoma, garantía certificada, mantenimiento postventa e importación a pedido.
+- **servicios:** Detalla los seis servicios que ofrece la concesionaria: venta de vehículos, financiamiento a medida, tasación y retoma, garantia certificada, mantenimiento postventa e importación a pedido.
 - **royal Cars en cifras:** Resumen visual con indicadores de trayectoria 
 - **multimedia:** hgaleria de video que incluye un video local de presentación (presenta.mp4) y un video externo insertado desde youTube
 - **contacto:** formulario para que los clientes enveen consultas seleccionando el tipo de servicio que necesitan.
 - **footer:** creditos del proyecto, enlaces a redes sociales e información académica.
 
-## Tecnologías utilizadas
+## tecnologias utilizadas
 
-| Tecnología | Uso dentro del proyecto |
+| tecnologia | uso dentro del proyecto |
 | :--- | :--- |
 | html5 | Estructura semántica del sitio (header, main, section, article, footer) y formulario de contacto. |
 | css3 | Estilos personalizados (css/style.css), paleta de colores en negro (#000000) y dorado (#d4af37), animaciones suaves y diseño adaptable (responsive). |
 | Bootstrap 5.3.2 | sistema de rejilla, barra de navegación adaptable, tarjetas y estilos de formulario cargados mediante CDN |
 
-## Estructura de archivos
+## estructura de archivos
 
 - index.html: archivo principal con toda la estructura y el contenido de la página web.
 - css/style.css: hoja de estilos personalizada con los colores, tipografías y efectos visuales de Royal Cars.
 - img/: llogotipo de la marca, portada del video, imágenes de las categorías de vehículos (deportivo.png, suv.png, sedan.png) y subcarpeta iconos/ para los servicios y redes sociales.
 - media/: archivos de video en formato MP4 (presenta.mp4 y lambo.mp4).
 
-enlace de la web: ´https://huriel23.github.io/disenoweb-parcial-Rabanal/´
 
 ## Autor y créditos
 
