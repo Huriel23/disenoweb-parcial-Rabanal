@@ -1,8 +1,6 @@
 # Royal Cars: Sitio Web de concesionaria de Vehiculos de Lujo
 
-Sitio web informativo (*landing page*) desarrollado para **Royal Cars**, una concesionaria ficticia especializada en la venta de vehículos de lujo como autos deportivos, SUV y sedanes ejecutivos.
-
-Este proyecto fue elaborado como parte de la evaluación parcial (**PU2**) de la carrera de **Ingeniería de Sistemas** en la **Universidad de Ciencias y Humanidades (UCH)**.
+Sitio web informativo desarrollado para **Royal Cars**, una concesionaria ficticia especializada en la venta de vehículos de lujo como autos deportivos, SUV y sedanes ejecutivos.
 
 ## Contenido de la página
 
@@ -35,6 +33,3 @@ El sitio está organizado en una sola página de navegación fluida con las sigu
 ## Autor y créditos
 
 - **Autor:** Angel Huriel Rabanal
-- **Institución:** Universidad de Ciencias y Humanidades (UCH)
-- **Carrera y ciclo:** Ingeniería de Sistemas — II Ciclo (Sección A, turno mañana)
-- **Evaluación:** Proyecto parcial PU2
