@@ -1,4 +1,4 @@
-# Royal Cars — Sitio Web de Concesionaria de Vehículos de Lujo
+# Royal Cars: Sitio Web de concesionaria de Vehiculos de Lujo
 
 Sitio web informativo (*landing page*) desarrollado para **Royal Cars**, una concesionaria ficticia especializada en la venta de vehículos de lujo como autos deportivos, SUV y sedanes ejecutivos.
 
@@ -26,10 +26,10 @@ El sitio está organizado en una sola página de navegación fluida con las sigu
 
 ## Estructura de archivos
 
-- index.html: Archivo principal con toda la estructura y el contenido de la página web.
-- css/style.css`: Hoja de estilos personalizada con los colores, tipografías y efectos visuales de Royal Cars.
-- img/: Logotipo de la marca, portada del video, imágenes de las categorías de vehículos (`deportivo.png`, `suv.png`, `sedan.png`) y subcarpeta iconos/ para los servicios y redes sociales.
-- media/: Archivos de video en formato MP4 (presenta.mp4 y lambo.mp4).
+- index.html: archivo principal con toda la estructura y el contenido de la página web.
+- css/style.css: hoja de estilos personalizada con los colores, tipografías y efectos visuales de Royal Cars.
+- img/: llogotipo de la marca, portada del video, imágenes de las categorías de vehículos (deportivo.png, suv.png, sedan.png) y subcarpeta iconos/ para los servicios y redes sociales.
+- media/: archivos de video en formato MP4 (presenta.mp4 y lambo.mp4).
 
 
 ## Autor y créditos
